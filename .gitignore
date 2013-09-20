@@ -1,0 +1,10 @@
+/target
+/.hg
+/.settings
+/.classpath
+/.hgignore
+/.hgtags
+/.project
+/build
+/bundlor
+/lib
